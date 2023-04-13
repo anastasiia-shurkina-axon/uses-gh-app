@@ -1,7 +1,4 @@
 {
-  "no": "Ok",
-  "ok": "Ok",
-  "translations": {
-    "6": "translations"
-  }
+  "loading": "Loading",
+  "test": "Just testing"
 }
