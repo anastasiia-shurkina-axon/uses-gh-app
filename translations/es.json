@@ -1,7 +1,4 @@
 {
-  "translations": {
-    "2": "translations",
-    "3": "translations"
-  },
-  "translations2": "translations"
+  "loading": "Cargando",
+  "test": "Solo probando"
 }
