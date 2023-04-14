@@ -1,0 +1,10 @@
+<resources>
+    <string name="bad">Bad</string>
+    <string name="bye">Bye</string>
+    <string name="good">Good</string>
+    <string name="hello">Hello</string>
+    <string name="nice">Nice</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Yes</string>
+</resources>
