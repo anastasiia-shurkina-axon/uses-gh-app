@@ -1,0 +1,8 @@
+<resources>
+    <string name="forbidden">Access Denied</string>
+    <string name="incorrect_credentials">Email or password is incorrect</string>
+    <string name="not_found">Page __Page__ not found</string>
+    <string name="not_found_upd">Page not FOUND</string>
+    <string name="reachec_term_limit">Your account has reached its term limit. You cannot create more than @v terms</string>
+    <string name="too_many_requests">Too Many Requests. Please wait a moment and try again.</string>
+</resources>
